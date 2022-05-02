@@ -1,0 +1,97 @@
+code,description,field_name,mcat_hi,mcat_lo,mcat_gl,reciprocal,code_date,mailed,printing,other,acct_num,holes,pccash,campaign,cashact,played,pledge_credit,pledge_debit,goal,tysdp,tysdpgift,tyandor,inactive,solicit_type,available_for_sol,primary_source,client_id,costformedia,membership_type,leeway_days,comments,fiscal_month,currency_symbol,non_gift,direction,country,other_description,start_date,end_date,mcat_code,mcat_months,ty_prioritize,ty_filter_id,ty_gift_option,ty_amount_option,ty_from_amount,ty_to_amount,ty_alternate,ty_priority,import_id,ty_email_tmplt_id,solicit_code2,code_grouping,code_id
+BILL,Billing Address,ADDRESS_TYPE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,25
+BILLH,Billing - Home Address,ADDRESS_TYPE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,26
+HOME,Home,ADDRESS_TYPE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,27
+HOME2,Second Home,ADDRESS_TYPE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,28
+WORK,Work,ADDRESS_TYPE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,33
+WORK2,Work2,ADDRESS_TYPE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,34
+BECKER,Becker,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1333
+BLANTON,Blanton,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,11/30/20,1/1/99,,12,N,,A,N,,,,,,,,,1383
+BRENTWOOD,Brentwood,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1335
+BRYKERWOODS,Bryker Woods,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1336
+CAMPBELL,Campbell,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1337
+CUNNINGHAM,Cunningham,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1338
+GULLETT,Gullett,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1339
+MAPLEWOOD,Maplewood ,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1340
+PRICE,Price,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1576
+REILLY,Reilly,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,11/30/20,1/1/99,,,N,,A,N,0,0,,,,,,,1384
+RIDGETOP,Ridgetop,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1341
+SUNSETVALLEY,Sunset Valley,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1342
+TEEN,Teen Programs,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1565
+TRAVISHEIGHTS,Travis Heights,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1343
+WINN,Winn,CHILDSCHOOL,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,11/30/20,1/1/99,,,N,,A,N,0,0,,,,,,,1385
+ASFAMILY,After School Family,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,7/29/19,1/1/99,,,N,, ,N,0,0,,,,,,,504
+BDALUM,Board Alum,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,6/15/15,1/1/99,,,N,, ,N,0,0,,,,,,,508
+CAMPFAMILY,Summer Camp Family,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,7/29/19,1/1/99,,,N,, ,N,0,0,,,,,,,541
+PARENT,Parent,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,10/29/15,1/1/99,,,N,,A,N,0,0,,,,,,,1108
+TEENPGMPARENT,Teen Program Parent,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,7/29/19,1/1/99,,,N,, ,N,0,0,,,,,,,1234
+VL,Volunteer,FLAG,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,5/2/14,1/1/99,,,N,,A,N,,,,,,,,,545
+ACTIVE,Active,SOURCE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,12,N,,A,N,,,,,,,,,1532
+AA,Armed Forces Americas,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,822
+AB,Alberta,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,823
+AE,"Armed Forces (Europe, Canada, Middle East, Africa)",STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,824
+AK,Alaska,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,825
+AL,Alabama,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,826
+AP,Armed Forces Pacific,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,827
+AR,Arkansas,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,828
+AZ,Arizona,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,829
+BC,British Columbia,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,830
+CA,California,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,831
+CO,Colorado,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,832
+CT,Connecticut,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,833
+DC,District of Columbia,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,834
+DE,Delaware,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,835
+FL,Florida,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,836
+GA,Georgia,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,837
+HI,Hawaii,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,838
+IA,Iowa,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,839
+ID,Idaho,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,840
+IL,Illinois,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,841
+IN,Indiana,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,842
+KS,Kansas,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,843
+KY,Kentucky,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,844
+LA,Louisiana,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,845
+MA,Massachusetts,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,846
+MB,Manitoba,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,847
+MD,Maryland,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,848
+ME,Maine,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,849
+MI,Michigan,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,850
+MN,Minnesota,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,851
+MO,Missouri,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,852
+MS,Mississippi,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,853
+MT,Montana,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,854
+NB,New Brunswick,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,855
+NC,North Carolina,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,856
+ND,North Dakota,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,857
+NE,Nebraska,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,858
+NH,New Hampshire,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,859
+NJ,New Jersey,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,860
+NL,Newfoundland & Labrador,STATE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,861
+NM,New Mexico,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,862
+NS,Nova Scotia,STATE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,863
+NT,Northwest Territories,STATE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,864
+NU,Nunavut,STATE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,865
+NV,Nevada,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,866
+NY,New York,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,867
+OH,Ohio,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,868
+OK,Oklahoma,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,869
+ON,Ontario,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,870
+OR,Oregon,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,871
+PA,Pennsylvania,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,872
+PE,Prince Edward Island,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,873
+PR,Puerto Rico,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,874
+QC,Quebec,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,875
+RI,Rhode Island,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,876
+SC,South Carolina,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,877
+SD,South Dakota,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,878
+SK,Saskatchewan,STATE,0,0,N,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,879
+TN,Tennessee,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,880
+TX,Texas,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,881
+UT,Utah,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,882
+VA,Virginia,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,883
+VT,Vermont,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,884
+WA,Washington,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,885
+WI,Wisconsin,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,886
+WV,West Virginia,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,887
+WY,Wyoming,STATE,0,0,,,,0,0,0,,,,,,0,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,888
+YT,Yukon,STATE,0,0,,,,0,0,0,,,,,,,,,0,,,,N,,,,,0,,0,,,,N,,,,,,,,N,,A,N,,,,,,,,,889
